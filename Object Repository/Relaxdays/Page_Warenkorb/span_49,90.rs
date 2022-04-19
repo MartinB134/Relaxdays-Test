@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_49,90</name>
+   <tag></tag>
+   <elementGuidId>14f78f4c-8474-4638-aba9-2ddff73161e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopping-cart-table']/div/div/div[2]/div[2]/div[2]/div/span/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.cart-price > span.price</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>437730d9-4140-42dd-8dd9-7d4506d57bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price</value>
+      <webElementGuid>00c17e1b-1d6c-4b63-ad2f-97963410a444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>49,90 €</value>
+      <webElementGuid>fedd1860-5077-4a3d-8d14-b2b04d5cf500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopping-cart-table&quot;)/div[@class=&quot;divider margin-bottom-s padding-bottom-s&quot;]/div[@class=&quot;row row-padding-xs cart-item&quot;]/div[@class=&quot;col-8 col-sm-9 col-lg-10&quot;]/div[@class=&quot;row row-padding-xs&quot;]/div[@class=&quot;col-6 col-md-6 f-right&quot;]/div[@class=&quot;f-link-bold&quot;]/span[@class=&quot;price-wrapper&quot;]/span[@class=&quot;price-including-tax&quot;]/span[@class=&quot;cart-price&quot;]/span[@class=&quot;price&quot;]</value>
+      <webElementGuid>3efbd47e-6b62-479a-a0ef-eb6a9b969834</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopping-cart-table']/div/div/div[2]/div[2]/div[2]/div/span/span/span/span</value>
+      <webElementGuid>ebb67187-ba21-4b07-b420-30095e41eee7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dunkelblau | Weiß | Transparent'])[2]/following::span[4]</value>
+      <webElementGuid>4a69d3b9-8488-42ab-ac2c-9e2e3836e0e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Farbe'])[1]/following::span[4]</value>
+      <webElementGuid>48e6a7c9-7451-46a8-b82c-327ed5f7bfbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relaxdays'])[1]/preceding::span[1]</value>
+      <webElementGuid>d0553f1d-8b39-40c8-af0e-49b08eae5024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Über uns'])[1]/preceding::span[1]</value>
+      <webElementGuid>c8266124-5488-4360-99d7-25be8f28fe28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span</value>
+      <webElementGuid>112dca04-6d68-4423-b9c3-100d72d6d899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '49,90 €' or . = '49,90 €')]</value>
+      <webElementGuid>e50dca4a-305e-45a1-a142-977183ce982e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

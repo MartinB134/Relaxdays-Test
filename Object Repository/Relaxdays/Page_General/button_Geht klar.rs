@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Geht klar</name>
+   <tag></tag>
+   <elementGuidId>0a648f45-03fe-4a1e-acd0-282cac09d01b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-cookie-allow']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-cookie-allow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f3f1a985-dda6-46d6-87b7-48db1c589c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-cookie-allow</value>
+      <webElementGuid>c4a96e69-fca0-4c57-bdc6-bbc8776376de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action allow primary</value>
+      <webElementGuid>8b036e96-fec5-4a70-b9bd-79ef0d81b483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Geht klar</value>
+      <webElementGuid>ec7207be-6dcb-4a0b-8cc9-f6cef9a6b9a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-cookie-allow&quot;)</value>
+      <webElementGuid>55db6091-47e4-4cb0-b29d-0d4986074444</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btn-cookie-allow']</value>
+      <webElementGuid>1c1e4621-e494-4014-8534-fd6e654fac7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='notice-cookie-block']/div/div/div[3]/button[2]</value>
+      <webElementGuid>49696c92-0632-4ac1-acda-91e5f958440f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Einstellungen'])[2]/following::button[1]</value>
+      <webElementGuid>c0a9108d-b4fe-4fd2-bb79-436695b23f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datenschutzerklärung'])[1]/following::button[2]</value>
+      <webElementGuid>7032191d-a51d-4607-87dc-ec536a8162a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'btn-cookie-allow', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>52f86f5e-f10c-4c40-ae6c-349f3f7bfcab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>9f0bca2b-1c49-45ad-b4ae-42cf2f7bda27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-cookie-allow' and (text() = 'Geht klar' or . = 'Geht klar')]</value>
+      <webElementGuid>2c0a5cc5-b478-4766-889b-587e031a9bef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Schliessen</name>
+   <tag></tag>
+   <elementGuidId>08ca06a9-ce0c-4cd6-962d-069c3328f405</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>footer.modal-footer > button[type=&quot;button&quot;] > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='html-body']/div[4]/aside/div[2]/footer/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9c66d014-c960-44e6-b716-7665b0e26c3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Schließen</value>
+      <webElementGuid>dbdfba9c-373b-40a6-8982-c1ed09c825e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;html-body&quot;)/div[@class=&quot;modals-wrapper&quot;]/aside[@class=&quot;modal-popup modal-borderless                modal-slide                _inner-scroll _show&quot;]/div[@class=&quot;modal-inner-wrap&quot;]/footer[@class=&quot;modal-footer&quot;]/button[1]/span[1]</value>
+      <webElementGuid>ce8e9489-3397-4334-809d-da9e8ad70fb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='html-body']/div[4]/aside/div[2]/footer/button/span</value>
+      <webElementGuid>d38cb06b-a459-42db-b983-8bb4685702dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sei dabei'])[2]/following::span[1]</value>
+      <webElementGuid>1b76dd83-c9a4-42b4-9bff-306bff0431b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vorname'])[2]/following::span[2]</value>
+      <webElementGuid>517b3624-8ced-485b-8723-1e8ef97094b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/button/span</value>
+      <webElementGuid>e7797bec-bf24-4423-825f-71dbd98b4832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Schließen' or . = 'Schließen')]</value>
+      <webElementGuid>3a8e3131-a0be-47eb-8aec-43d54fba126f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

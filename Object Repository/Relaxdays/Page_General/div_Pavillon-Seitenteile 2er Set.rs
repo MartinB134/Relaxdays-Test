@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pavillon-Seitenteile 2er Set</name>
+   <tag></tag>
+   <elementGuidId>e9fc1792-57ec-4113-969a-3a8a21467a73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//dd[@id='qs-option-4']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#qs-option-4 > div.row > div.col-6 > div.f-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49a7ba45-d1e0-406c-bc4e-8edd88f6e385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f-primary</value>
+      <webElementGuid>6a1472a6-fd8d-42eb-a854-6556fae84835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pavillon-Seitenteile 2er Set</value>
+      <webElementGuid>fdf469e3-7186-4e9b-81e2-8af0804a0b94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qs-option-4&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;f-primary&quot;]</value>
+      <webElementGuid>7b5838b7-22c2-4a6c-88ed-0b631c68f886</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//dd[@id='qs-option-4']/div/div[2]/div</value>
+      <webElementGuid>9451e526-3013-4862-8389-7a318b66af8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ab'])[1]/following::div[4]</value>
+      <webElementGuid>ecee2d1f-ec8c-4085-b1ca-997a3be038ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pavillon Zelt'])[1]/following::div[8]</value>
+      <webElementGuid>d0583699-7fae-40a5-a35e-7f9fb6dde9d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ab'])[2]/preceding::div[2]</value>
+      <webElementGuid>7737c9fc-3de4-497b-8bf6-a26343cdfb81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pavillon Gewicht'])[1]/preceding::div[6]</value>
+      <webElementGuid>a0002485-7f54-43fc-9345-8f02dd6a11b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pavillon-Seitenteile 2er Set']/parent::*</value>
+      <webElementGuid>5b96403a-49f6-43f8-9daa-30d41fbfebf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dd[2]/div/div[2]/div</value>
+      <webElementGuid>e96e930a-e1e5-4967-8abc-461fc2d369c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pavillon-Seitenteile 2er Set' or . = 'Pavillon-Seitenteile 2er Set')]</value>
+      <webElementGuid>2efefd46-b3a6-4eae-a552-7ae9c2d601de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

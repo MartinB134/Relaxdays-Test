@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pavillon 3x3 m mit 2 Seitenteilen</name>
+   <tag></tag>
+   <elementGuidId>340f6406-9a53-4703-9faa-b122d89241d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class='message' and contains(text(), 'hinzugefügt')]/ancestor::*[@data-sku]//*[contains(@class, &quot;item-link&quot;) and contains(@data-bind, &quot;product_name&quot;)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#view-cart-sidebar > div > div.minicart-items-wrapper > #mini-cart > div.row.row-padding-xs.divider.margin-bottom-s.padding-bottom-s.minicart-item > div.col-9 > div.row.row-padding-xs > div.col-11 > div.f-link-bold.f-blue > a.product-item-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cd6ee778-2540-416b-b5f6-86d9e84c1071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-item-link</value>
+      <webElementGuid>15fa3469-c00e-4a16-a92c-9bce680451b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: {href: product_url}, html: product_name</value>
+      <webElementGuid>ed239ef4-9708-4437-b8e9-7a4b09020dc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://relaxdays.de/pavillon-3x3-m-mit-2-seitenteilen-10020810.html</value>
+      <webElementGuid>f751ae83-951b-4ccb-8851-a62d9fafc69b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pavillon 3x3 m mit 2 Seitenteilen</value>
+      <webElementGuid>1b20e529-d55f-40cc-b2db-c946db844917</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view-cart-sidebar&quot;)/div[1]/div[@class=&quot;minicart-items-wrapper&quot;]/div[@id=&quot;mini-cart&quot;]/div[@class=&quot;row row-padding-xs divider margin-bottom-s padding-bottom-s minicart-item&quot;]/div[@class=&quot;col-9&quot;]/div[@class=&quot;row row-padding-xs&quot;]/div[@class=&quot;col-11&quot;]/div[@class=&quot;f-link-bold f-blue&quot;]/a[@class=&quot;product-item-link&quot;]</value>
+      <webElementGuid>f9917c43-86d7-4e32-9fc0-287a7326b7f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='mini-cart']/div/div[2]/div/div/div/a)[2]</value>
+      <webElementGuid>0e64a765-bb38-4d0a-b00b-24539d4fa115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'')])[2]</value>
+      <webElementGuid>a0af7550-f5cd-451d-92ea-a18d10321335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mein Warenkorb'])[3]/following::a[2]</value>
+      <webElementGuid>f246ea77-abb9-41d8-a106-49ed4a354be9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schließen'])[2]/following::a[2]</value>
+      <webElementGuid>2c6ba285-d274-48d1-83aa-e4443bcceac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Farbe:'])[2]/preceding::a[1]</value>
+      <webElementGuid>f71066a8-df0f-4eda-9730-0b86bcaa2112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[3]/preceding::a[1]</value>
+      <webElementGuid>4180f313-dbb3-471b-9a16-cd67db2cc08c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div/div/div/div/div/div[2]/div/div/div/a</value>
+      <webElementGuid>2492792e-602c-423f-ada4-62d1e7bf0fdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

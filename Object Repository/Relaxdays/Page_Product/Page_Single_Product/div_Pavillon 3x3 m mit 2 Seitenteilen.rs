@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pavillon 3x3 m mit 2 Seitenteilen</name>
+   <tag></tag>
+   <elementGuidId>ab3856da-7ee7-47e0-a5eb-cd8cce28bbda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#qs-option-9 > div.row > div.col-6 > div.f-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//dd[@id='qs-option-9']/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b684e00e-15a4-41e7-af9a-a1b8cbd8b014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f-primary</value>
+      <webElementGuid>1b15c2f2-a921-43a5-9781-082828a06017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pavillon 3x3 m mit 2 Seitenteilen</value>
+      <webElementGuid>dbb9732b-e865-4023-8249-6d7e9a40e8c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qs-option-9&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;f-primary&quot;]</value>
+      <webElementGuid>acf1fc1c-5fce-4779-b506-a933a99d46f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//dd[@id='qs-option-9']/div/div[2]/div</value>
+      <webElementGuid>e644a6b8-fe62-4f8b-9812-99b2adeb4f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pavillon Seitenwand 2er Set hellblau'])[1]/following::div[8]</value>
+      <webElementGuid>7c576185-d812-42fa-8b02-ea27ff1eb153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pavillon Seitenteile 2er Set grün'])[1]/following::div[16]</value>
+      <webElementGuid>36d52038-0729-4141-b0cf-4d4f1530151c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ab'])[3]/preceding::div[2]</value>
+      <webElementGuid>1c65e7a1-d1e2-4a20-b865-ec81ecc7f60b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Moskitonetz für 3x3 Pavillon'])[1]/preceding::div[6]</value>
+      <webElementGuid>161e1747-dbba-4dfe-b3a7-b3744e68dfe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pavillon 3x3 m mit 2 Seitenteilen']/parent::*</value>
+      <webElementGuid>1f6aeb22-0ef6-4bac-9293-fcfa01cb88ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dd[7]/div/div[2]/div</value>
+      <webElementGuid>9bd63b38-6fce-45b4-b52c-5cc1ad45bc70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pavillon 3x3 m mit 2 Seitenteilen' or . = 'Pavillon 3x3 m mit 2 Seitenteilen')]</value>
+      <webElementGuid>e1ec52c7-7511-4c9c-9e57-eb00600db29c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

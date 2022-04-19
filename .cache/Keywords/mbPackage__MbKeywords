@@ -1,0 +1,68 @@
+{
+  "keywordFileContentHash": "9685A652F51C3100F0F40E0534C4B685",
+  "keywordClasses": [
+    {
+      "name": "mbPackage.MbKeywords",
+      "keywordMethods": [
+        {
+          "name": "returnCustomTestobjectViaXpath",
+          "parameters": [
+            {
+              "name": "xpath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Create a dynamic testobject with runtime xpath\n\t * @param Xpath as String\n\t */"
+        },
+        {
+          "name": "priceToNumber",
+          "parameters": [
+            {
+              "name": "price",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Convert a Price to a number for calculation\n\t * 1. String split the price at the space, take first element as it is the number\n     * 2. replace the comma to finally convert it to BigDecimal for calculations\n     * 3. Rounding and cutting of decimal places will be handled by BigDecimal\n\t * @param String with format e.g. \u002712,34 €\u0027\n\t */"
+        },
+        {
+          "name": "priceNumberToString",
+          "parameters": [
+            {
+              "name": "price",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.math.BigDecimal",
+                "unresolvedClassName": "BigDecimal",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Convert a Price to a number for calculation\n\t * @param to Katalon test object\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

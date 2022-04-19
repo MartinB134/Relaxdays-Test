@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_7,97</name>
+   <tag></tag>
+   <elementGuidId>259c5c68-5c57-4d7b-94ef-21ca98aae12e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-totals']/div/table/tbody/tr[2]/td/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.totals-tax-details > td.amount > span.price</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>16606133-7635-49e1-9da1-37bd19fd3cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price</value>
+      <webElementGuid>19d04ea2-0ac7-4571-9aa8-61467d565b9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: $parents[1].getTaxAmount($parents[0], percent), attr: {'data-th': title, 'rowspan': $parents[0].rates.length }</value>
+      <webElementGuid>f72a7f55-3108-4af4-a7ac-6ba3874ddb0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-th</name>
+      <type>Main</type>
+      <value>MwSt.</value>
+      <webElementGuid>d776807b-8b47-46fc-a308-275da5c00586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rowspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>370fe4dd-f9dc-4b95-966b-80a29a109a7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>7,97 €</value>
+      <webElementGuid>696e65be-c8eb-4894-ae72-0201e93f91c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-totals&quot;)/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;data table totals&quot;]/tbody[1]/tr[@class=&quot;totals-tax-details&quot;]/td[@class=&quot;amount&quot;]/span[@class=&quot;price&quot;]</value>
+      <webElementGuid>c06e8dcf-526b-4fa2-934e-42fd78a0ffca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-totals']/div/table/tbody/tr[2]/td/span</value>
+      <webElementGuid>d7b85797-1e09-4782-8cd9-979e612b53d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MwSt. (19%)'])[1]/following::span[1]</value>
+      <webElementGuid>638cc244-096b-4a1b-a3b2-848619506c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zwischensumme'])[2]/following::span[2]</value>
+      <webElementGuid>f8f3f963-fc51-4661-b5d9-78962ba2e1f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bestellsumme'])[1]/preceding::span[1]</value>
+      <webElementGuid>f06d3ce9-4295-422c-9c9f-fdb5ca98c54b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gutschein'])[1]/preceding::span[2]</value>
+      <webElementGuid>9faa7bf1-8e05-4392-a53c-55a6ec020058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='7,97 €']/parent::*</value>
+      <webElementGuid>40d89443-d2d8-4f1f-920a-6de9b343a3ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/span</value>
+      <webElementGuid>01e7b7fa-15d3-4b81-bdbd-70c91b5e6995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '7,97 €' or . = '7,97 €')]</value>
+      <webElementGuid>edbbca56-7688-48d7-853b-4091b22506e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

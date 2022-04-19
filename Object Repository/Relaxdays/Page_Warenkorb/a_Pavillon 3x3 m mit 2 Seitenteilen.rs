@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pavillon 3x3 m mit 2 Seitenteilen</name>
+   <tag></tag>
+   <elementGuidId>721f0709-4552-482c-96bf-13712b9d9ce1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopping-cart-table']/div/div/div[2]/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.f-link-bold.f-blue.f-bold > a.product-item-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eefbb9ae-646a-4331-8253-26517475483a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-item-link</value>
+      <webElementGuid>d5cbb339-8eec-4e40-aea1-48862c8d7bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://relaxdays.de/pavillon-3x3-m-mit-2-seitenteilen-10020810.html?rd=0_checkoutcartindex_controller</value>
+      <webElementGuid>0eb9e9f9-ba92-4289-99ea-c9d8b04aa0b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pavillon 3x3 m mit 2 Seitenteilen</value>
+      <webElementGuid>3bd4ea26-6fdd-40ca-a0aa-b8e1085a823a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopping-cart-table&quot;)/div[@class=&quot;divider margin-bottom-s padding-bottom-s&quot;]/div[@class=&quot;row row-padding-xs cart-item&quot;]/div[@class=&quot;col-8 col-sm-9 col-lg-10&quot;]/div[@class=&quot;row row-padding-xs margin-bottom-s min-height-65&quot;]/div[@class=&quot;col-10 col-md-10&quot;]/div[@class=&quot;f-link-bold f-blue f-bold&quot;]/a[@class=&quot;product-item-link&quot;]</value>
+      <webElementGuid>5500fb1d-7d8f-44f3-a48d-0fcd4c654da8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopping-cart-table']/div/div/div[2]/div/div/div/a</value>
+      <webElementGuid>3aaef8f7-25a3-450b-8987-0459b988d7d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Pavillon 3x3 m mit 2 Seitenteilen')])[2]</value>
+      <webElementGuid>048d8c17-362e-4712-87e0-78d20dbad686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zur Kasse'])[2]/following::a[2]</value>
+      <webElementGuid>a6e7706c-77d5-4ceb-81dc-3ee754c68492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rabatt anwenden'])[1]/following::a[2]</value>
+      <webElementGuid>53cf2494-1ff7-46a6-9e95-b4a39527d02a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Farbe'])[1]/preceding::a[1]</value>
+      <webElementGuid>7abca8d5-1e08-4f3f-8a68-1fc2d6032955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dunkelblau | Weiß | Transparent'])[2]/preceding::a[1]</value>
+      <webElementGuid>e27a14dc-e857-4e3a-8257-a7f86638f653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://relaxdays.de/pavillon-3x3-m-mit-2-seitenteilen-10020810.html?rd=0_checkoutcartindex_controller')])[4]</value>
+      <webElementGuid>437af87c-00ef-49d8-ab45-459463988b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div[2]/div/div/div/a</value>
+      <webElementGuid>ee81b5da-0189-48b9-b444-f7e92e34f702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://relaxdays.de/pavillon-3x3-m-mit-2-seitenteilen-10020810.html?rd=0_checkoutcartindex_controller' and (text() = 'Pavillon 3x3 m mit 2 Seitenteilen' or . = 'Pavillon 3x3 m mit 2 Seitenteilen')]</value>
+      <webElementGuid>0322f535-4871-4aa6-aa65-bfb9001cd01f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

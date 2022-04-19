@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Attributes of Product 1</description>
+      <initValue>[('heading') : 'Pavillon 3x3 m mit 2 Seitenteilen', ('attribute') : 'Weiß | Transparent', ('quantity') : '1', ('price') : '49,90 €', ('url') : 'https://relaxdays.de/pavillon-3x3-m-mit-2-seitenteilen-10020810', ('sku') : '10020810']</initValue>
+      <name>product1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Attributes of Product 2</description>
+      <initValue>[('heading') : 'Zeltheringe 20er Set', ('attribute') : '', ('quantity') : '1', ('price') : '8,90 €', ('sku') : '10023882', ('url') : 'https://relaxdays.de/sport-freizeit/camping/zelte/zeltheringe/zeltheringe-20er-set-10023882.html']</initValue>
+      <name>product2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Attributes of Product 3</description>
+      <initValue>[('heading') : 'Bierzeltgarnitur klappbar Holzoptik', ('attribute') : 'Weiß', ('quantity') : '1', ('price') : '129,90 €', ('sku') : '10022838', ('url') : 'https://relaxdays.de/sport-freizeit/party/bierzelte/bierzeltgarnituren/bierzeltgarnitur-klappbar-holzoptik-10022838.html']</initValue>
+      <name>product3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0</initValue>
+      <name>iterations</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
